@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+nltk
+underthesea
+sentence-transformers
+SentencePiece
